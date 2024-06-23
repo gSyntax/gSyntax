@@ -1,7 +1,4 @@
-![Header](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
-<div align="center">
-  <h1>Hi, I'm Gerti</h1>
-</div>
+![unnamed](https://github.com/gerti0/gerti0/assets/84338057/68eae0eb-3862-41ea-81c2-54a67460b37c)
 
 <div align="center">
   <p>Languages I'm familiar with</p>
