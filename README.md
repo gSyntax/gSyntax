@@ -1,4 +1,5 @@
-![Header](https://your-banner-image-url.com)
+![Header](https://capsule-render.vercel.app/api?type=bubble&color=gradient&text=Hi%20there!%20I'm%20[Your%20Name]&height=100&fontSize=50)
+
 
 <div align="center">
   <h1>Hi, I'm Gerti</h1>
