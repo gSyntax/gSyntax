@@ -1,6 +1,5 @@
-![Header](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
-
 <div align="center">
+  ![Header](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
   <h1>Hi, I'm Gerti</h1>
 </div>
 
