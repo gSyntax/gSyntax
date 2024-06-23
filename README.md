@@ -4,8 +4,6 @@
   <h1>Hi, I'm Gerti</h1>
 </div>
 
----
-
 <div align="center">
   <p>Languages I'm familiar with</p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
@@ -16,9 +14,6 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" />
 </div>
 
----
-
----
 
 <div align="center">
   <p>
@@ -27,10 +22,7 @@
   </p>
 </div>
 
----
-
 <div align="center">
-  <h2>📫 Contact</h2>
   <p>
     <a href="https://www.linkedin.com/in/gerti-kida-a97b3b23b/">
       <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin" />
