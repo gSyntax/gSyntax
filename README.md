@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
     <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
     <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" />
-    <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=C" />
+    <img src="https://img.shields.io/badge/-C-black?style=flat&logo=C" />
   </p>
 </div>
 
