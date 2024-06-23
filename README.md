@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=bubble&color=gradient&text=Hi%20there!%20I'm%20[Your%20Name]&height=100&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF7F50,100:FF6347&height=200&section=header&text=Hi%20there!%20I'm%20[Your%20Name]&fontSize=50)
+
 
 
 <div align="center">
