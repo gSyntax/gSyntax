@@ -1,11 +1,9 @@
 ![Header](https://your-banner-image-url.com)
 
 <div align="center">
-  <h1>Hi there 👋</h1>
-  <p>I'm <strong>[Your Name]</strong></p>
+  <h1>Hi, I'm Gerti</h1>
 </div>
 
----
 
 <div align="center">
   <h2>Technologies & Tools</h2>
