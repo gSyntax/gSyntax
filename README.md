@@ -1,9 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF7F50,100:FF6347&height=200&section=header&text=Hi%20there!%20I'm%20[Your%20Name]&fontSize=50)
-
-
-
+![Header](https://i.imgur.com/eG6idTJ.jpg)
 <div align="center">
-  <h1>Hi, I'm Gerti</h1>
+  <h1>Hi there! I'm [Your Name]</h1>
 </div>
 
 
