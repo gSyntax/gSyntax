@@ -16,23 +16,11 @@
   </p>
 </div>
 
-<div align="center">
-  <h2>Projects</h2>
-  <p>
-    <a href="https://github.com/yourusername/project1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=default" />
-    </a>
-    <a href="https://github.com/yourusername/project2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=default" />
-    </a>
-  </p>
-</div>
-
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gerti0&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
   </p>
 </div>
 
