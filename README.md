@@ -1,7 +1,7 @@
 
 
 
-## Hi there, I'm Gerti
+## Hi there, I'm gerti0
 
 I like writing code, not gonna lie.
 
