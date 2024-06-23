@@ -1,8 +1,7 @@
-![Header](https://i.imgur.com/eG6idTJ.jpg)
+![Header](https://i.imgur.com/1Q5a2p7.jpg)
 <div align="center">
   <h1>Hi there! I'm [Your Name]</h1>
 </div>
-
 
 <div align="center">
   <h2>Technologies & Tools</h2>
