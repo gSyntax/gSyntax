@@ -16,8 +16,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h2>Projects</h2>
   <p>
@@ -30,17 +28,13 @@
   </p>
 </div>
 
----
 
 <div align="center">
-  <h2>GitHub Stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" />
   </p>
 </div>
-
----
 
 <div align="center">
   <h2>Contact</h2>
